@@ -1,6 +1,6 @@
 # Sales and Customer Analysis Dashboard
 
-##1. Overview
+1. Overview
  
 **Thông tin bộ dữ liệu**
 
@@ -19,8 +19,9 @@
    - Format lại các trường dữ liệu
    - Tạo Relationship, tạo thêm bảng Dim_date,...
 
-##2.   Sales Performance Insights
-        <img width="1449" height="820" alt="image" src="https://github.com/user-attachments/assets/9cde7e76-e39c-4773-a92f-131b44363ca7" />
+2.   Sales Performance Insights
+
+     <img width="1449" height="820" alt="image" src="https://github.com/user-attachments/assets/9cde7e76-e39c-4773-a92f-131b44363ca7" />
 
 _Về doanh thu và lợi nhuận qua thời gian_
 - Doanh thu nhìn chung ổn định qua các năm, thường giảm nhẹ vào Quý 3 
@@ -35,8 +36,9 @@ _Về lợi nhuận các quốc gia_
   Nhóm khách hàng Trung Quốc mang lại doanh thu cao nhất do số lượng bán hàng cao. Tuy nhiên, % lợi nhuận của quốc gia này chỉ chiếm khoảng 39.1% doanh thu, không mang lại % lợi nhuận tương xứng với lượng bán hàng. Trong khi đó, France có doanh thu đứng thứ 7 nhưng lại có % lợi nhuận cao nhất, lên tới 43,1% doanh thu
   > Nên tập trung hơn vào thị trường Pháp, tăng số lượng đơn đặt hàng và lợi nhuận. Bên cạnh đó, giảm phụ thuộc vào thị trường Trung Quốc
 
-##3.  Customer analysis insights
-        <img width="1210" height="679" alt="image" src="https://github.com/user-attachments/assets/4dfa4d6c-cba2-4d8e-868b-481f1c969890" />
+3.  Customer analysis insights
+
+    <img width="1210" height="679" alt="image" src="https://github.com/user-attachments/assets/4dfa4d6c-cba2-4d8e-868b-481f1c969890" />
 
 Số lượng khách hàng sử dụng dịch vụ (active customer) không thay đỏi nhiều theo thời gian. Tuy nhiên, số lượng khách hàng mới lại biến động nhiều, đạt đỉnh vào Q1 năm 2022
 Bên cạnh đó, Churn rate (tỷ lệ rời bỏ của khách hàng) ngày càng tăng mạnh, cho thấy doanh nghiệp đang quá tập trung vào việc thu hút khách hàng mới mà không để tâm tới việc giữ chân khách hàng
