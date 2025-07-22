@@ -3,7 +3,8 @@
 1. Overview
  
    **Thông tin bộ dữ liệu**
-   Bộ dữ liệu gốc về thông tin bán hàng của một doanh nghiệp kinh doanh cây cảnh đa quốc gia tại Mỹ bao gồm các bảng dữ liệu:
+
+ Bộ dữ liệu gốc về thông tin bán hàng của một doanh nghiệp kinh doanh cây cảnh đa quốc gia tại Mỹ bao gồm các bảng dữ liệu:
   - Plant_Fact: Bản ghi các đơn đặt hàng từ ngày 01/01/2022 đến 14/042024 bao gồm thông tin về mã sản phẩm, mã khách hàng, dơn giá, doanh thu, chi phí,...
   - Accounts: Bảng dữ liệu thông tin khách hàng. Bao gồm thông tin về mã khách hàng, địa chỉ,...
   - Plant_Hierarchy: Bảng dữ liệu thông tin sản phẩm. Bao gồm thông tin nhóm sản phẩm, loại, kích cỡ sản phầm,...
