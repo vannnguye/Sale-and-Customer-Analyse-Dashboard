@@ -1,6 +1,10 @@
 # Sales and Customer Analysis Dashboard
 
 1. OVERVIEW
+    **Mục tiêu**
+   - Báo cáo doanh thu, chi phí và lợi nhuận theo sản phẩm, quốc gia theo từng tháng, quý, năm
+   - So sánh doanh thu năm nay với các năm trước
+   - Xác định Retention rate, Churn rate, New customer rate theo thời gian và sản phẩm
     **Thông tin bộ dữ liệu**
    Bộ dữ liệu gốc về thông tin bán hàng của một doanh nghiệp kinh doanh cây cảnh đa quốc gia tại Mỹ bao gồm các bảng dữ liệu:
   - Plant_Fact: Bản ghi các đơn đặt hàng từ ngày 01/01/2022 đến 14/042024 bao gồm thông tin về mã sản phẩm, mã khách hàng, dơn giá, doanh thu, chi phí,...
